@@ -1,0 +1,7 @@
+To start the program, run main.
+
+Do not forget ' ' and . for your inputs.
+
+Ex.
+Would you like to start your examination? (Y/N)
+'y'.
