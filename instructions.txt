@@ -1,7 +1,20 @@
 To start the program, run main.
 
-Do not forget ' ' and . for your inputs.
+For input with more than one word, please insert a _.
 
 Ex.
-Would you like to start your examination? (Y/N)
-'y'.
+What is your main concern? |: muscle_aches.
+
+In inputting the chief complaint, the ChatBot is limited to
+take take input defined in its database. 
+
+Here are some examples to start with:
+fever
+chills
+headache
+cough
+vomiting
+muscle_aches
+sore_throat
+watery_eyes
+fatigue
