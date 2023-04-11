@@ -18,3 +18,10 @@ muscle_aches
 sore_throat
 watery_eyes
 fatigue
+
+Note: The program uses dynamic predicates that is retracted at 
+the beginning and the end of the program to ensure 
+proper functionality. Issues might occur when terminating/closing
+the program before it has finished running. To prevent this, it is 
+recommended to allow the program to continue running until it has 
+finished its tasks.
