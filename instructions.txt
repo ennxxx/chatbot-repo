@@ -19,7 +19,7 @@ sore_throat
 watery_eyes
 fatigue
 
-Note: The program uses dynamic predicates that is retracted at 
+Note: The program uses dynamic predicates that are retracted at 
 the beginning and the end of the program to ensure 
 proper functionality. Issues might occur when terminating/closing
 the program before it has finished running. To prevent this, it is 
